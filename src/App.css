@@ -1,0 +1,23 @@
+.App {
+	text-align: center;
+}
+
+.headerTitle {
+	color: #051e3ad0;
+	font-size: 128px;
+	font-weight: bold;
+	font-family: Zanzabar;
+}
+
+/* .App-header {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: black;
+} */
+
+.App-link {
+	color: #61dafb;
+}
